@@ -201,6 +201,11 @@ p {
     margin-top: 2rem;
   }
 
+  .types li {
+    font-size: medium;
+    margin-bottom: 1.5rem;
+  }
+
   .hospitality-section {
     display: flex;
     flex-direction: column;
