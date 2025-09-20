@@ -59,7 +59,7 @@ section {
 }
 
 .forest-section {
-  background-image: url(/docs/assets/360_F_246303918_pvDNj3S6LyLvx4CYcpn5p5uupdWk8qUo.jpg);
+  background-image: url(./assets/360_F_246303918_pvDNj3S6LyLvx4CYcpn5p5uupdWk8qUo.jpg);
 }
 
 .portrait {
@@ -86,7 +86,7 @@ section {
 }
 
 .cloud-section {
-  background-image: url(/docs/assets/couds.jpeg);
+  background-image: url(./assets/couds.jpeg);
   justify-content: center;
   display: flex;
   flex-direction: column;
